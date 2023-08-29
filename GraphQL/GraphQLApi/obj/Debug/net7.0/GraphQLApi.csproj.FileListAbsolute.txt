@@ -53,3 +53,4 @@ C:\Repos\GraphQlApi\GraphQL\GraphQLApi\obj\Debug\net7.0\refint\GraphQLApi.dll
 C:\Repos\GraphQlApi\GraphQL\GraphQLApi\obj\Debug\net7.0\GraphQLApi.pdb
 C:\Repos\GraphQlApi\GraphQL\GraphQLApi\obj\Debug\net7.0\GraphQLApi.genruntimeconfig.cache
 C:\Repos\GraphQlApi\GraphQL\GraphQLApi\obj\Debug\net7.0\ref\GraphQLApi.dll
+C:\Repos\GraphQlApi\GraphQL\GraphQLApi\bin\Debug\net7.0\Bogus.dll

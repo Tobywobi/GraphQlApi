@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x5JL4z6y0z7B1iWdZCKg3ZC/E2MCysfcO8PIBYjo8ZVo8nSSsZGKho494jUNVZbC6d5DYOmEJb1SwY5RwNpeuA==",
+  "dgSpecHash": "0efOQG5YszyFgafo9ZgcLAbMKXMu7d4r3ArCaNzEOQMlJzbAvuTE2xutWOXoTSudgVmsxg9fDcVhKRO73oanwQ==",
   "success": true,
   "projectFilePath": "C:\\Repos\\GraphQlApi\\GraphQL\\GraphQLApi\\GraphQLApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mr_le\\.nuget\\packages\\bananacakepop.middleware\\7.0.4\\bananacakepop.middleware.7.0.4.nupkg.sha512",
+    "C:\\Users\\mr_le\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\mr_le\\.nuget\\packages\\greendonut\\13.5.1\\greendonut.13.5.1.nupkg.sha512",
     "C:\\Users\\mr_le\\.nuget\\packages\\hotchocolate\\13.5.1\\hotchocolate.13.5.1.nupkg.sha512",
     "C:\\Users\\mr_le\\.nuget\\packages\\hotchocolate.abstractions\\13.5.1\\hotchocolate.abstractions.13.5.1.nupkg.sha512",

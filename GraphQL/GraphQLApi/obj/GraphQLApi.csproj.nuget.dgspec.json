@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
             "HotChocolate.AspNetCore": {
               "target": "Package",
               "version": "[13.5.1, )"
